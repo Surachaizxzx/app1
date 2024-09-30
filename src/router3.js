@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Navigate, NavLink, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom'
 import './navlink.css'
 import products from "./product";
 import Home from "./home";
